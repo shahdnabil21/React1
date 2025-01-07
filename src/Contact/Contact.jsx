@@ -18,11 +18,11 @@ export default function Contact() {
           <label htmlFor="floatingInput">userName</label>
         </div>
         <div className="form-floating my-3">
-          <input type="password" className="form-control" id="floatingPassword" placeholder="Password" />
+          <input type="number" className="form-control" id="floatingPassword" placeholder="Password" />
           <label htmlFor="floatingPassword">userAge</label>
         </div>
         <div className="form-floating my-3">
-          <input type="password" className="form-control" id="floatingPassword" placeholder="Password" />
+          <input type="email" className="form-control" id="floatingPassword" placeholder="Password" />
           <label htmlFor="floatingPassword">userEmail</label>
         </div>
         <div className="form-floating my-3">
