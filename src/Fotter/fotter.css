@@ -1,0 +1,16 @@
+.fotter-bg{
+    background-color: #944E63;
+    height: 70vh;
+}
+.m{
+    margin-top: 50px;
+}
+.round{ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    border: 1px solid white;
+}

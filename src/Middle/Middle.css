@@ -1,0 +1,40 @@
+.bg-middle{
+    background-color: #B47B84;
+    height: 95vh;
+}
+.circle{
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+    background-color: #944E63;
+}
+.circle img{
+    border-radius: 50%;
+    width: 110%;
+    bottom: 0;
+    right: -12px;
+}
+.avatar{
+    top: 20%;
+    left: 50%;
+}
+.avatar h2{
+    font-size: 30px;
+    letter-spacing: 2px;
+}
+/* .item i::before{
+    color: '';
+    width: 150px;
+    height: 15px;
+    position: absolute;
+    top: 0;
+    left: 0;
+} */
+.Margin{
+    margin-top: 100px;
+}
+.line{
+    height: 3px;
+    width: 70px;
+    background-color: white;
+}

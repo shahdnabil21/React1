@@ -1,0 +1,34 @@
+.navbar{
+    height: 100px;
+    z-index: 99;
+    transition: all 0.5s;
+}
+.navbar-expanded {
+    height: 200px; 
+  }
+.navbar-brand{
+    font-size: 28px;
+}
+.nav-item{
+    font-size: 18px;
+}
+body{
+    font-family: "DM Sans", serif;
+}
+.bg-nav{
+    background-color: #944E63;
+    
+}
+.shrink{
+    height: 80px;
+    transition: all 0.5s;
+}
+.navbar-nav .nav-link.active{
+    width: 100%;
+    height: 40px;
+    border-radius: 10px;
+    background-color: #B47B84;
+}
+.navbar-toggler:focus{
+    box-shadow: none;
+}

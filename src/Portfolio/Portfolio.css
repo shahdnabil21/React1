@@ -1,0 +1,36 @@
+.line2{
+    height: 3px;
+    width: 70px;
+    background-color: #944E63;
+}
+.maincolor{
+    color: #944E63;
+}
+.layer{
+    height: 100%;
+    width: 100%;
+    background-color: #bc888fc3;
+    transition:  0.5s;
+    opacity: 0;
+    cursor: pointer;
+}
+
+.iteamP:hover .layer{
+   opacity: 1;
+}
+.fontsize{
+    font-size: 60px;
+}
+.BigLayer{
+    background-color: #944e6393;
+}
+.Bigimg{
+    width: 10%;
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+}
+
+
+
+

@@ -1,0 +1,28 @@
+.form-floating{
+  width: 100%;
+  color: rgba(0, 0, 0, 0.355);
+}
+.form-control:focus{
+    box-shadow: none;
+    border-color: rgba(65, 65, 65, 0.214);
+}
+.form-control {
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 2px solid rgba(62, 60, 60, 0.325); 
+  }
+.form-floating .form-control:focus ~ label {
+    color: #944E63; 
+}
+.btn{
+    background-color: #944E63; 
+    color: white;
+}
+.btn:hover{
+    background-color: #944e63dc;
+    color: white;
+}
+.mArgin{
+    margin-left: 0;
+}
