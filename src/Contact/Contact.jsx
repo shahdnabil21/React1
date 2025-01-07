@@ -6,7 +6,7 @@ export default function Contact() {
   return (
     <>
       <div className='container py-5'>
-      <h1 className='maincolor text-center fw-bold pt-5 mt-5'>PORTOFOLIO COMPONENT</h1>
+      <h1 className='maincolor text-center fw-bold pt-5 mt-5'>CONTACT COMPONENT</h1>
         <div className='d-flex justify-content-center align-items-center'>
           <div className='line2 mt-2'></div>
           <i className="fa-solid fa-star mx-3 maincolor"></i>
